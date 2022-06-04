@@ -5,3 +5,9 @@ unikv/unikv
 bin/*
 _tools
 /vendor
+
+/deploy/bin/*
+/deploy/data/*
+/deploy/log/*
+/deploy/pid/*
+!/deploy/*/.gitkeep
